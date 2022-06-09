@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sherifnajmeldein
 - 👀 I’m interested in programing devolpment
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on android app
+- 💞️ I’m looking to collaborate on software engineer
 - 📫 How to reach me negmsherif8@gmail.com
 
 <!---
